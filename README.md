@@ -10,3 +10,4 @@ Info: My Final Project idea is a fitness tracker app
 
 Overview:
 Exercise.java - finished
+FitnessTracker.java - finished
