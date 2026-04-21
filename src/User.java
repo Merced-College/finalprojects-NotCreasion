@@ -1,11 +1,8 @@
-/*
-Author: Estefania Reyes
-Class: User.java
+// Name: Estefania Reyes
+// Date: 20 April 2026
+// Class: User.java
+// Description: Represents a user in the fitness tracker application, storing personal information and preferences using a HashMap.
 
-Description:
-Represents a user in the fitness tracker application.
-Stores user information and preferences using a HashMap.
-*/
 import java.util.HashMap;
 
 public class User {

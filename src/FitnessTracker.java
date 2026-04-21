@@ -1,11 +1,8 @@
-/*
-Author: Estefania Reyes
-Class: FitnessTracker.java
+// Name: Estefania Reyes
+// Date: 20 April 2026
+// Class: FitnessTracker.java
+// Description: Main class for managing user's fitness activities. Uses ArrayList for workout log, HashMap for exercise categories, Queue for pending workouts.
 
-Description:
-Main class for managing user's fitness activities.
-Uses ArrayList for workout log, HashMap for exercise categories, Queue for pending workouts.
-*/
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;

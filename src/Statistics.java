@@ -1,18 +1,15 @@
-/*
-Author: Estefania Reyes
-Class: Statistics.java
+// Name: Estefania Reyes
+// Date: 20 April 2026
+// Class: Statistics.java
+// Description: Provides statistical calculations and algorithms for the fitness tracker, including sorting, searching, and recursive functions.
+//Time Complexity: O(n^2)
 
-Description:
-Provides statistical calculations and algorithms for the fitness tracker.
-Includes sorting, searching, and recursive functions.
-*/
 import java.util.ArrayList;
 import java.util.Stack;
 
 public class Statistics {
     // Sorting algorithm: Bubble Sort for exercises by calories
     /*
-    Author: Estefania Reyes
     Algorithm: Bubble Sort
     Sorts exercises by calories burned in ascending order.
     Time Complexity: O(n^2)
@@ -33,7 +30,6 @@ public class Statistics {
 
     // Searching algorithm: Linear Search for exercise by name
     /*
-    Author: Estefania Reyes
     Algorithm: Linear Search
     Searches for an exercise by name in the list.
     Time Complexity: O(n)
@@ -49,7 +45,6 @@ public class Statistics {
 
     // Recursive function: Calculate factorial (for demonstration, maybe for some stat)
     /*
-    Author: Estefania Reyes
     Recursive Function: Factorial
     Calculates factorial of a number recursively.
     Used for demonstration of recursion.
@@ -63,7 +58,6 @@ public class Statistics {
 
     // Another algorithm: Calculate average calories using recursion
     /*
-    Author: Estefania Reyes
     Recursive Algorithm: Average Calories
     Recursively calculates the average calories from a list.
     */

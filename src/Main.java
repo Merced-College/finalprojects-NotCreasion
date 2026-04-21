@@ -1,11 +1,8 @@
-/*
-Author: Estefania Reyes
-Class: Main.java
+// Name: Estefania Reyes
+// Date: 20 April 2026
+// Class: Main.java
+// Description: Main entry point for the Fitness Tracker application. Demonstrates all features including data structures and algorithms.
 
-Description:
-Main entry point for the Fitness Tracker application.
-Demonstrates all features including data structures and algorithms.
-*/
 public class Main {
     public static void main(String[] args) {
         // Create user

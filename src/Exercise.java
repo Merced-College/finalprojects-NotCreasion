@@ -1,3 +1,8 @@
+// Name: Estefania Reyes
+// Date: 20 April 2026
+// Class: Exercise.java
+// Description: Represents an individual exercise with name, duration in minutes, and calories burned. Provides getters and a string representation.
+
 public class Exercise {
     private String name;
     private int durationMinutes;

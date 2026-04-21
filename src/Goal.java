@@ -1,11 +1,8 @@
-/*
-Author: Estefania Reyes
-Class: Goal.java
+// Name: Estefania Reyes
+// Date: 20 April 2026
+// Class: Goal.java
+// Description: Represents a fitness goal for the user, including description, target value, unit, and achievement status.
 
-Description:
-Represents a fitness goal for the user.
-Uses records for immutable goal data.
-*/
 public class Goal {
     private String description;
     private int targetValue; // e.g., calories to burn, weight to lose

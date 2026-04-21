@@ -1,11 +1,8 @@
-/*
-Author: Estefania Reyes
-Class: WorkoutPlan.java
+// Name: Estefania Reyes
+// Date: 20 April 2026
+// Class: WorkoutPlan.java
+// Description: Manages a sequence of exercises using a LinkedList, allowing addition, removal, and calculation of total duration and calories.
 
-Description:
-Manages a sequence of exercises using a LinkedList.
-Allows adding, removing, and iterating through planned workouts.
-*/
 import java.util.LinkedList;
 
 public class WorkoutPlan {
