@@ -69,22 +69,23 @@ public class FitnessTracker {
         return total;
     }
 
-    public void displaySummary() {
-        System.out.println("\n--- " + userName + "'s Fitness Summary ---");
-        if (user != null) {
-            System.out.println(user.toString());
-        }
-        for (Exercise e : workoutLog) {
-            System.out.println(e.toString());
-        }
-        System.out.println("Total Calories Burned: " + getTotalCalories());
-        System.out.println("\nGoals:");
-        for (Goal g : goals) {
-            System.out.println(g.toString());
-        }
-        System.out.println("\nPending Workouts:");
-        for (Exercise e : pendingWorkouts) {
-            System.out.println(e.toString());
-        }
+    public String getUserName() {
+        return userName;
+    }
+
+    public User getUser() {
+        return user;
+    }
+
+    public ArrayList<Exercise> getWorkoutLog() {
+        return workoutLog;
+    }
+
+    public ArrayList<Goal> getGoals() {
+        return goals;
+    }
+
+    public Queue<Exercise> getPendingWorkouts() {
+        return pendingWorkouts;
     }
 }
